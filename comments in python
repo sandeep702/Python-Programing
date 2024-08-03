@@ -1,0 +1,17 @@
+# This is a single-line comment in Python
+
+"""
+This is a multi-line comment 
+It can span multiple lines and is often used to describe
+the purpose of the code or a function.
+"""
+
+def example_function():
+    """
+    This is a docstring for the function. It explains what the function does.
+    """
+    # Printing a message to the console
+    print("Comments in Python are useful for explaining code!")
+
+# Calling the function
+example_function()
